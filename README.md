@@ -1,7 +1,7 @@
-# Ngnix-Web-Docker
+# Nginx-Web-Docker
  
 ### 1- Clone the repository by running the following command in your terminal:  
-    git clone https://github.com/MohamedAli09/Ngnix-Web-Docker.git
+    git clone https://github.com/MohamedAli09/Nginx-Web-Docker.git
 ### 2- Navigate to the directory using the cd command :
     cd Nginix-Web-Docker
 ### 3- Build the Docker container by running the following command:
